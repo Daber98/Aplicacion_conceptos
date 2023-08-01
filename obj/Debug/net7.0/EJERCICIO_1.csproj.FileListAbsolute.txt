@@ -1,0 +1,15 @@
+H:\EJERCICIO_1\bin\Debug\net7.0\EJERCICIO_1.exe
+H:\EJERCICIO_1\bin\Debug\net7.0\EJERCICIO_1.deps.json
+H:\EJERCICIO_1\bin\Debug\net7.0\EJERCICIO_1.runtimeconfig.json
+H:\EJERCICIO_1\bin\Debug\net7.0\EJERCICIO_1.dll
+H:\EJERCICIO_1\bin\Debug\net7.0\EJERCICIO_1.pdb
+H:\EJERCICIO_1\obj\Debug\net7.0\EJERCICIO_1.csproj.AssemblyReference.cache
+H:\EJERCICIO_1\obj\Debug\net7.0\EJERCICIO_1.GeneratedMSBuildEditorConfig.editorconfig
+H:\EJERCICIO_1\obj\Debug\net7.0\EJERCICIO_1.AssemblyInfoInputs.cache
+H:\EJERCICIO_1\obj\Debug\net7.0\EJERCICIO_1.AssemblyInfo.cs
+H:\EJERCICIO_1\obj\Debug\net7.0\EJERCICIO_1.csproj.CoreCompileInputs.cache
+H:\EJERCICIO_1\obj\Debug\net7.0\EJERCICIO_1.dll
+H:\EJERCICIO_1\obj\Debug\net7.0\refint\EJERCICIO_1.dll
+H:\EJERCICIO_1\obj\Debug\net7.0\EJERCICIO_1.pdb
+H:\EJERCICIO_1\obj\Debug\net7.0\EJERCICIO_1.genruntimeconfig.cache
+H:\EJERCICIO_1\obj\Debug\net7.0\ref\EJERCICIO_1.dll
